@@ -21,3 +21,5 @@ sort(a1, a1 + size);
 |<center>C++</center> | <center>Java</center> | 
 |--------|-------|
 |<center>vector</center> | <center>Arraylist</center> |
+
+`from vscode`
