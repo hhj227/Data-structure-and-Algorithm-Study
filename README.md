@@ -23,7 +23,7 @@ sort(a1, a1 + size);
 |<center>vector</center> | <center>Arraylist</center> |
 
 ```c
-// 1. initialize
+    // 1. initialize
     vector<int> v0;
     vector<int> v1(5, 0);
     // 2. make a copy
