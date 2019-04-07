@@ -4,7 +4,7 @@
 ```C
 
 ```
-####[leetcode](https://leetcode.com) 참조
+[####leetcode](https://leetcode.com) 참조
 
 ## Array and String
 
