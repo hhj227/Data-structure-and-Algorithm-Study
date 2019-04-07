@@ -16,3 +16,8 @@ for (int& item: a1) {
 ```C
 sort(a1, a1 + size);
 ```
+
+#### Dynamic Programming
+|<center>C++</center> | <center>Java</center> | 
+|--------|-------|
+|<center>vector</center> | <center>Arraylist</center> |
