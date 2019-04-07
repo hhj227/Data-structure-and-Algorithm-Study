@@ -2,6 +2,7 @@
 
 [마크다운 참조](https://namu.wiki/w/마크다운)
 ```C
+
 ```
 ####[leetcode](https://leetcode.com) 참조
 
@@ -11,4 +12,7 @@
 for (int& item: a1) {
         cout << " " << item;
     }
+```
+```C
+sort(a1, a1 + size);
 ```
