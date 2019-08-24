@@ -1,4 +1,5 @@
 # first solution
+# failed at efficiency test
 
 def solution(phone_book):
     answer = True
