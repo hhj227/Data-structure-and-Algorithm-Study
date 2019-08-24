@@ -4,6 +4,7 @@
 #include <cstring>
 using namespace std;
 
+//대부분은 dfs로 품
 int solution(int n, vector<vector<int>> computers) {
     int answer = 0;
     bool visited[200];
